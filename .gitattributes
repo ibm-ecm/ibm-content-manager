@@ -1,0 +1,7 @@
+. eol=lf
+*.*bin !eol
+*.dat !eol
+*.pgm !eol
+*.xmit !eol
+.projects !eol
+.settings\*.* !eol
