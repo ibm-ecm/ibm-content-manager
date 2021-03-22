@@ -1,2 +1,3 @@
 # ibm-content-manager
-Samples and files related to IBM Content Manager containers
+This repo is for samples and files related to IBM Content Manager containers
+Containers are for cmrest (cmrcontainer), resource manager (rmcontainer) and webservices (wscontainer)
